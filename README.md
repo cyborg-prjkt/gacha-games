@@ -1,4 +1,4 @@
-Language : Indonesia [ English - Cooming Soon] 
+Language : Indonesian
 
 Features :
 - gacha
