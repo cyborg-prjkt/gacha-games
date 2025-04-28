@@ -1,4 +1,5 @@
-Features:
+Language : Indonesia [ English - Cooming Soon] 
+Features :
 - gacha
 - check balance
 - check bank balance
